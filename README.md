@@ -453,7 +453,7 @@ operations on the encrypted is also under development.
 All code and scripts in this repo is available under the Apache v2 license, see attached license file.
 Please note that this initial first release is using relying on a docker image 
 which is availble to run free of charge for non commerical purposes. For commerical use,
-please contact info@telhoc.se. There is an extended enterprise version of BorregoDB available
+please contact info@telhoc.com. There is an extended enterprise version of BorregoDB available
 with development support, where more advanced security configurations can be done.
 
 
