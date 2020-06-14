@@ -22,7 +22,7 @@ BorregoDB provides a native Java API that uses Maps to construct data records an
 queries while also supporting basic SQL CRUD operations. In the close future, a REST API
 supporting JSON and SQL queries will also be made available.
 
-Here are a few use cases:
+Here are a few example configurations:
 
 1. Data is generated on many different machines. Data is inserted, encrypted and stored
 on each machine. Data from all machines is queryable from any machine or user in the network provided
