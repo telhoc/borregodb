@@ -42,7 +42,7 @@ they have the correct credentials, but only a subset of the data can be decrypte
 
 5. (Variation of 4.). Data is generated on many different machines. Data is inserted, encrypted and stored
 on each machine. Data from all machines is queryable from a subset of machines in the network provided
-the have the correct credentials, but only a subset of the data can be decrypted. 
+they have the correct credentials, but only a subset of the data can be decrypted. 
 
 6. (Variation of 5.). Data is generated on many different machines. Data is inserted, encrypted and stored
 on each machine. Data from a select subset of machines is queryable from a select subset of machines in the network provided they have the correct credentials, but only a subset of the data can be decrypted. 
@@ -51,8 +51,8 @@ In summary BorregoDB provides the capability to query data stored on many differ
 on the network (including the Internet) while controlling who can query the data and who can
 decrypt the data. 
 
-This infrastructure also provides the capability to perform more advanced function than simple queries,
-but also computations on the encrypted data, which is something that will be provided in future updates.
+This infrastructure also provides the capability to perform more advanced functions than simple queries; it also supports computations on the encrypted data, which is something that will 
+be provided in future updates.
 
 
 ## Installing and starting BorregoDB
