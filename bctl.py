@@ -18,7 +18,7 @@ while(loop):
 
     if(arg == "pull"):
         print("Pulling latest borrego image from Docker Hub")
-        cmdStr = "sudo docker pull telhoc/borrego-test:latest"
+        cmdStr = "sudo docker pull telhoc/borrego:latest"
         shcmd(cmdStr)        
 
     elif(arg == "images"):
