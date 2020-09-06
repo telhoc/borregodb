@@ -68,7 +68,7 @@ $ sudo apt-get install docker
 ```
 
 In order to install, start, stop and manage the borrego db docker app, a
-helper python script is provided called `bctl.py` is provided.
+helper python script is provided called `bctl.py` is provided. If you are running this on an ARM-64 machine, please use `bctl-arm.py`, which has the same syntax but pulls and executes an arm based image instead.
 To install the borrego image:
 ```bash
 ./bctl.py
